@@ -15,6 +15,8 @@ Kaggle notebook link: https://www.kaggle.com/code/saikumarreddy01/spanemo
 Dataset can be downloaded from the SemEval2018 official challenge site: https://competitions.codalab.org/competitions/17751#learn_the_details-datasets 
 Place them in the appropriate location for the experiments.
 
+Alternatively, dataset is also uploaded to Kaggle, and can be used with this link: https://www.kaggle.com/datasets/saikumarreddy01/semeval2018
+
 ***
 
 ## Training
